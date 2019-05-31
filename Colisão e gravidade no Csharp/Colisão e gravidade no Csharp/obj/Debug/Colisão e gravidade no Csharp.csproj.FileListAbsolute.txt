@@ -1,0 +1,10 @@
+C:\Users\gabriel\Desktop\Colisão e gravidade no Csharp\Colisão e gravidade no Csharp\obj\Debug\Colisão e gravidade no Csharp.csprojAssemblyReference.cache
+C:\Users\gabriel\Desktop\Colisão e gravidade no Csharp\Colisão e gravidade no Csharp\obj\Debug\Colisão_e_gravidade_no_Csharp.Form1.resources
+C:\Users\gabriel\Desktop\Colisão e gravidade no Csharp\Colisão e gravidade no Csharp\obj\Debug\Colisão_e_gravidade_no_Csharp.Properties.Resources.resources
+C:\Users\gabriel\Desktop\Colisão e gravidade no Csharp\Colisão e gravidade no Csharp\obj\Debug\Colisão e gravidade no Csharp.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\Colisão e gravidade no Csharp\Colisão e gravidade no Csharp\obj\Debug\Colisão e gravidade no Csharp.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\Colisão e gravidade no Csharp\Colisão e gravidade no Csharp\bin\Debug\Colisão e gravidade no Csharp.exe.config
+C:\Users\gabriel\Desktop\Colisão e gravidade no Csharp\Colisão e gravidade no Csharp\bin\Debug\Colisão e gravidade no Csharp.exe
+C:\Users\gabriel\Desktop\Colisão e gravidade no Csharp\Colisão e gravidade no Csharp\bin\Debug\Colisão e gravidade no Csharp.pdb
+C:\Users\gabriel\Desktop\Colisão e gravidade no Csharp\Colisão e gravidade no Csharp\obj\Debug\Colisão e gravidade no Csharp.exe
+C:\Users\gabriel\Desktop\Colisão e gravidade no Csharp\Colisão e gravidade no Csharp\obj\Debug\Colisão e gravidade no Csharp.pdb
