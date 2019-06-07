@@ -1,5 +1,7 @@
 # Gravidade e colisão no form do C#. Versão 1.2
 Um exemplo que mostra a implementação de gravidade e colisão no C# para jogos simples em 2D.
+[<img src="https://raw.githubusercontent.com/gabriel-gregorio-da-silva/gravidade_e_colisao_no_csharp/master/caixa%20e%20ch%C3%A3o%20legal.png">](#)
+
 
 ## Dicas
 - Eu recomendo que você implemente a colisão e a gravidade, já que geralmente usamos a gravidade para que objetos possam cair no chão correto?
@@ -39,7 +41,7 @@ if ( colisao(button1 , button2) == "sim")
 - __objeto__ é um botão que se chama __caixa__ e está em cima do __chao_referencia__, ou seja, a __caixa__ está sobre o __chão__
 - __“if (colisao(objeto, chao_referencia)”__ se refere ao método de colisão, que está exemplificado abaixo dessa algoritmo
 - A variável global __tempo__ é o "Tempo" para fornecer a aceleração para o objeto até a colisão com o __ “chão”__. 1,2,3,4...
- 
+
 ### Algoritmo
 ```C#
         // *************** CALCULOS DE GRAVIDADE *************** \\
