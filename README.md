@@ -97,7 +97,7 @@ if ( colisao(button1 , button2) == "sim")
             // Testar os dois lados
             while (x < 3)
             {
-                if (objeto_1.Location.X < objeto_2.Location.X && objeto_1.Location.X + objeto_1.Size.Width > objeto_2.Location.X && objeto_1.Location.Y < objeto_2.Location.Y && objeto_1.Location.Y + objeto_1.Size.Height > objeto_2.Location.Y)
+                if (objeto_1.Location.X <= objeto_2.Location.X && objeto_1.Location.X + objeto_1.Size.Width >= objeto_2.Location.X && objeto_1.Location.Y <= objeto_2.Location.Y && objeto_1.Location.Y + objeto_1.Size.Height >= objeto_2.Location.Y)
                 {
                     colidiu = "sim";
                 }
@@ -114,7 +114,7 @@ if ( colisao(button1 , button2) == "sim")
             // Testar os dois lados
             while (x < 3)
             {
-                if (objeto_2.Location.X + objeto_2.Width < objeto_1.Location.X + objeto_1.Width && objeto_2.Location.X + objeto_2.Width > objeto_1.Location.X && objeto_2.Location.Y + objeto_2.Height < objeto_1.Location.Y + objeto_1.Height && objeto_2.Location.Y + objeto_2.Height > objeto_1.Location.Y)
+                if (objeto_2.Location.X + objeto_2.Width <= objeto_1.Location.X + objeto_1.Width && objeto_2.Location.X + objeto_2.Width >= objeto_1.Location.X && objeto_2.Location.Y + objeto_2.Height <= objeto_1.Location.Y + objeto_1.Height && objeto_2.Location.Y + objeto_2.Height >= objeto_1.Location.Y)
                 {
                     colidiu = "sim";
                 }
@@ -131,7 +131,7 @@ if ( colisao(button1 , button2) == "sim")
             // Testar os dois lados
             while (x < 3)
             {
-                if (objeto_2.Location.X + objeto_2.Width < objeto_1.Location.X + objeto_1.Width && objeto_2.Location.X + objeto_2.Width > objeto_1.Location.X && objeto_2.Location.Y < objeto_1.Location.Y + objeto_1.Height && objeto_2.Location.Y > objeto_1.Location.Y)
+                if (objeto_2.Location.X + objeto_2.Width <= objeto_1.Location.X + objeto_1.Width && objeto_2.Location.X + objeto_2.Width >= objeto_1.Location.X && objeto_2.Location.Y <= objeto_1.Location.Y + objeto_1.Height && objeto_2.Location.Y >= objeto_1.Location.Y)
                 {
                     colidiu = "sim";
                 }
@@ -148,7 +148,7 @@ if ( colisao(button1 , button2) == "sim")
             // Testar os dois lados
             while (x < 3)
             {
-                if (objeto_2.Location.X < objeto_1.Location.X + objeto_1.Width && objeto_2.Location.X > objeto_1.Location.X && objeto_2.Location.Y < objeto_1.Location.Y + objeto_1.Height && objeto_2.Location.Y > objeto_1.Location.Y)
+                if (objeto_2.Location.X <= objeto_1.Location.X + objeto_1.Width && objeto_2.Location.X >= objeto_1.Location.X && objeto_2.Location.Y <= objeto_1.Location.Y + objeto_1.Height && objeto_2.Location.Y >= objeto_1.Location.Y)
                 {
                     colidiu = "sim";
                 }
